@@ -1,0 +1,44 @@
+C:\Users\Алина\source\repos\Из-9\Из-9\bin\Debug\Из-9.exe.config
+C:\Users\Алина\source\repos\Из-9\Из-9\bin\Debug\Из-9.exe
+C:\Users\Алина\source\repos\Из-9\Из-9\bin\Debug\Из-9.pdb
+C:\Users\Алина\source\repos\Из-9\Из-9\obj\Debug\Из-9.csprojAssemblyReference.cache
+C:\Users\Алина\source\repos\Из-9\Из-9\obj\Debug\Из_9.Form1.resources
+C:\Users\Алина\source\repos\Из-9\Из-9\obj\Debug\Из_9.Properties.Resources.resources
+C:\Users\Алина\source\repos\Из-9\Из-9\obj\Debug\Из-9.csproj.GenerateResource.cache
+C:\Users\Алина\source\repos\Из-9\Из-9\obj\Debug\Из-9.csproj.CoreCompileInputs.cache
+C:\Users\Алина\source\repos\Из-9\Из-9\obj\Debug\Из-9.exe
+C:\Users\Алина\source\repos\Из-9\Из-9\obj\Debug\Из-9.pdb
+C:\Users\Алина\source\repos\Из-9\Из-9\obj\Debug\Из_9.Подсчет_времени.resources
+C:\Users\User\Pictures\рпм\Из-9\Из-9\obj\Debug\Из-9.csprojAssemblyReference.cache
+C:\Users\User\Pictures\рпм\Из-9\Из-9\obj\Debug\Из_9.Form1.resources
+C:\Users\User\Pictures\рпм\Из-9\Из-9\obj\Debug\Из_9.Properties.Resources.resources
+C:\Users\User\Pictures\рпм\Из-9\Из-9\obj\Debug\Из_9.Подсчет_времени.resources
+C:\Users\User\Pictures\рпм\Из-9\Из-9\obj\Debug\Из-9.csproj.GenerateResource.cache
+C:\Users\User\Pictures\рпм\Из-9\Из-9\obj\Debug\Из-9.csproj.CoreCompileInputs.cache
+C:\Users\User\Pictures\рпм\Из-9\Из-9\obj\Debug\Из-9.exe
+C:\Users\User\Pictures\рпм\Из-9\Из-9\obj\Debug\Из-9.pdb
+C:\Users\User\Pictures\рпм\Из-9\Из-9\bin\Debug\Из-9.exe.config
+C:\Users\User\Pictures\рпм\Из-9\Из-9\bin\Debug\Из-9.exe
+C:\Users\User\Pictures\рпм\Из-9\Из-9\bin\Debug\Из-9.pdb
+F:\Хисамутдинова Алина 219.6\Из-9\Из-9\bin\Debug\Из-9.exe.config
+F:\Хисамутдинова Алина 219.6\Из-9\Из-9\bin\Debug\Из-9.exe
+F:\Хисамутдинова Алина 219.6\Из-9\Из-9\bin\Debug\Из-9.pdb
+F:\Хисамутдинова Алина 219.6\Из-9\Из-9\obj\Debug\Из-9.csprojAssemblyReference.cache
+F:\Хисамутдинова Алина 219.6\Из-9\Из-9\obj\Debug\Из_9.Form1.resources
+F:\Хисамутдинова Алина 219.6\Из-9\Из-9\obj\Debug\Из_9.Properties.Resources.resources
+F:\Хисамутдинова Алина 219.6\Из-9\Из-9\obj\Debug\Из_9.Подсчет_времени.resources
+F:\Хисамутдинова Алина 219.6\Из-9\Из-9\obj\Debug\Из-9.csproj.GenerateResource.cache
+F:\Хисамутдинова Алина 219.6\Из-9\Из-9\obj\Debug\Из-9.csproj.CoreCompileInputs.cache
+F:\Хисамутдинова Алина 219.6\Из-9\Из-9\obj\Debug\Из-9.exe
+F:\Хисамутдинова Алина 219.6\Из-9\Из-9\obj\Debug\Из-9.pdb
+E:\Хисамутдинова Алина 219.6\Из-9\Из-9\bin\Debug\Из-9.exe.config
+E:\Хисамутдинова Алина 219.6\Из-9\Из-9\bin\Debug\Из-9.exe
+E:\Хисамутдинова Алина 219.6\Из-9\Из-9\bin\Debug\Из-9.pdb
+E:\Хисамутдинова Алина 219.6\Из-9\Из-9\obj\Debug\Из-9.csprojAssemblyReference.cache
+E:\Хисамутдинова Алина 219.6\Из-9\Из-9\obj\Debug\Из_9.Form1.resources
+E:\Хисамутдинова Алина 219.6\Из-9\Из-9\obj\Debug\Из_9.Properties.Resources.resources
+E:\Хисамутдинова Алина 219.6\Из-9\Из-9\obj\Debug\Из_9.Подсчет_времени.resources
+E:\Хисамутдинова Алина 219.6\Из-9\Из-9\obj\Debug\Из-9.csproj.GenerateResource.cache
+E:\Хисамутдинова Алина 219.6\Из-9\Из-9\obj\Debug\Из-9.csproj.CoreCompileInputs.cache
+E:\Хисамутдинова Алина 219.6\Из-9\Из-9\obj\Debug\Из-9.exe
+E:\Хисамутдинова Алина 219.6\Из-9\Из-9\obj\Debug\Из-9.pdb
